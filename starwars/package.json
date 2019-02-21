@@ -12,6 +12,8 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "expect": "^24.1.0",
+    "jest-tobetype": "^1.2.2",
     "unique-random-array": "1.0.0"
   },
   "devDependencies": {
